@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Jet Street Food</string>
+    <string name="search_food">Search Street Food</string>
+    <string name="required_price">Rp. %d </string>
+    <string name="streetfood_image">Street Food Image</string>
+    <string name="btn_back">Back</string>
+    <string name="add_to_cart">Add to Cart : Rp. %d</string>
+    <string name="cart_screen">Cart</string>
+    <string name="share_message">Hey, I have buy %1$d street food in Street Food THAKOIN with total %2$d . Do you want too?</string>
+    <string name="cart_not_found">Cart Not Found</string>
+    <string name="street_food_thakoin">Street Food Thailand, Korea, Indonesia</string>
+    <string name="username">Satrio Pinandito</string>
+    <string name="email">officialsatriopinandito@gmail.com</string>
+    <string name="home_screen">Home</string>
+    <string name="display_picture">Display Picture</string>
+    <string name="profile_screen">Profile</string>
+    <string name="plus_symbol">＋</string>
+    <string name="minus_symbol">-</string>
+    <string name="mango_sticky_rice">Mango Stiky Rice</string>
+    <string name="oyster_omlette">Oyster Omlette</string>
+    <string name="kimbap">Kimbap</string>
+    <string name="tteokbokki">Tteokbokki</string>
+    <string name="ramyeon">Ramyeon</string>
+    <string name="hotteok">Hotteok</string>
+    <string name="sannakji">Sannakji</string>
+    <string name="batagor">Batagor</string>
+    <string name="sate_maranggi">Sate Maranggi</string>
+    <string name="cendol_dawet">Es Cendol Dawet</string>
+    <string name="es_buah">Es Buah</string>
+    <string name="cilor">Cilor Bandung</string>
+</resources>
